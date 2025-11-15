@@ -203,10 +203,10 @@ Customers prefer large pizzas, possibly indicating family/group orders — promo
 
 Mid-year and weekend spikes require tightening food preparation, delivery efficiency, and raw material stocking.
 
-Show what the dashboard looks like. -![Alt text](https://github.com/username/repo/assets/image.png)
-Example: ![Dashboard Preview](https://github.com/Ankit6046/Pizza-Sales-Report/blob/main/Dashboard..png)
-![Dashboard Preview](https://github.com/Ankit6046/Pizza-Sales-Report/blob/main/Dashboard.png)
-
 6. Product Strategy
 
 Classic and Supreme categories consistently perform best — strong candidates for seasonal promotions & combo offers.
+
+Show what the dashboard looks like. -![Alt text](https://github.com/username/repo/assets/image.png)
+Example: ![Dashboard Preview](https://github.com/Ankit6046/Pizza-Sales-Report/blob/main/Dashboard..png)
+![Dashboard Preview](https://github.com/Ankit6046/Pizza-Sales-Report/blob/main/Dashboard.png)
